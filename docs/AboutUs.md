@@ -23,7 +23,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/rehad.png" width="200px">
 
 [[github](http://github.com/rehad-a)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/rehad.md)]
 
 * Role: Testing
 * Responsibilities: Ensure the testing of the project is done properly and on time.
