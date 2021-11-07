@@ -96,7 +96,7 @@ via the terminal as well (but double-clicking should work fine).
    1. Open [Terminal](https://support.apple.com/en-sg/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac).
    2. Navigate to the home folder created in **Step 3** using the terminal. For example, if your folder was created in Desktop and is called **myfolder**,
       you would type `cd /Desktop/myfolder/` to move to that folder. For more information, check: [_Go to a folder by entering its pathname_.](https://support.apple.com/en-sg/guide/mac-help/mchlp1236/mac)
-   3. Type the following command into the Terminal: `java -jar nustracker.jar`. 
+   3. Type the following command into the Terminal: `java -jar [CS2103T-T11-1][nustracker].jar`. 
 
 6. You should see the following (minus the profile pictures): <br>
    ![Ui](images/Ui.png)
