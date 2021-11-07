@@ -411,7 +411,7 @@ Edits an existing student in **nustracker**.
 
 Command: `edit id/ID_OF_STUDENT_TO_EDIT [n/NEW_NAME] [m/NEW_MAJOR] [id/NEW_STUDENT_ID] [y/NEW_YEAR] [p/NEW_PHONE] [e/NEW_EMAIL]`
 
-* Edits the student who currently has the specified `STUDENT_ID`.
+* Edits the student who currently has the specified student ID.
 * **At least one of the optional fields** must be provided.
 * Existing values will be updated to the input values.
 * Events of a student cannot be directly edited with the `edit` command, please make use of the `enroll` and `remove` commands for this purpose.
@@ -603,16 +603,6 @@ Examples:
 * `delete ev/Sports Camp` deletes the event with the name `Sports Camp`.
 
 
-_**Note**_:
-The command to delete both students and events are `delete`.
-<br>
-However, `delete` will only delete either a student or an event and
-**cannot contain both student and event prefixes at once**.
-<br>
-I.e. `delete id/STUDENT_ID ev/EVENT_NAME` is not allowed.
-(Refer to "Deleting a student" for more information.)
-<br><br>
-
 
 <div markdown="span" class="alert alert-info">
 
@@ -662,7 +652,7 @@ Command: `export fn/FILE_NAME`
 
 The file will be located in the `data` directory, which is where the app's save files are located.
 
-If the "events" page is currently being shown, export will still function and will export the emails of the most recent student list.
+If the events list is currently being shown, export will still function and will export the emails of the most recent student list.
 
 <div markdown="span" class="alert alert-danger">
 
@@ -754,7 +744,7 @@ customized to your liking.
     *You can choose one of the pre-selected colors.*
  
 <div markdown="span" class="alert alert-primary">:bulb: **Tip:**
-Advanced users: You can manually input your own color hex code in preferences.json! (If it is incorrect,
+Advanced users: You can manually input your own color hex code in preferences.json! (If it is invalid,
 the glow will be the default pink!).
 </div>
 
@@ -762,7 +752,7 @@ the glow will be the default pink!).
 <div style="page-break-after: always;"></div>
 ### Customization FAQs
  
-**Q**: I have added the image, but it doesn't appear. <br>
+**Q**: I have added the image, but it does not appear. <br>
 
 **A**: Please check if:  
 * the image is either **.jpg** or **.png**. Other image types are NOT supported. 
