@@ -85,18 +85,18 @@ via the terminal as well (but double-clicking should work fine).
 
 1. Ensure you have `Java 11` or above installed in your Computer. 
 
-2. Download the latest `nustracker.jar`, found under [Releases](https://github.com/AY2122S1-CS2103T-T11-1/tp/releases). 
+2. Download the latest `nustracker.zip`, found under [Releases](https://github.com/AY2122S1-CS2103T-T11-1/tp/releases). 
 
-3. Copy the `nustracker.jar` to the folder you want to use as the _containing folder_ for **nustracker**. We recommend something easy to type, like _myfolder_.
+3. Extract the zip file to a folder of your choice. We recommended something easy to type, like `myfolder`.
 
-4. For Windows Users (**macOS user see Step 5**)
+4. For Windows Users (**macOS users see Step 5**)
     1. Double-click the jar file.<br><br>
 
-5. For Mac Users: 
+5. For macOS Users: 
    1. Open [Terminal](https://support.apple.com/en-sg/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac).
    2. Navigate to the home folder created in **Step 3** using the terminal. For example, if your folder was created in Desktop and is called **myfolder**,
       you would type `cd /Desktop/myfolder/` to move to that folder. For more information, check: [_Go to a folder by entering its pathname_.](https://support.apple.com/en-sg/guide/mac-help/mchlp1236/mac)
-   3. Type the following command into the Terminal: `java -jar nustracker.jar`. 
+   3. Type the following command into the Terminal: `java -jar [CS2103T-T11-1][nustracker].jar`. 
 
 6. You should see the following (minus the profile pictures): <br>
    ![Ui](images/Ui.png)
