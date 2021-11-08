@@ -93,7 +93,7 @@ via the terminal as well (but double-clicking should work fine).
 
 5. For macOS Users: 
    1. Open [Terminal](https://support.apple.com/en-sg/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac).
-   2. Navigate to the home folder created in **Step 3** using the terminal. For example, if your folder was created in Desktop and is called **myfolder**,
+   2. Navigate to the home folder created in **Step 3** using the terminal. For example, if your folder was created in Desktop and is called `myfolder`,
       you would type `cd /Desktop/myfolder/` to move to that folder. For more information, check: [_Go to a folder by entering its pathname_.](https://support.apple.com/en-sg/guide/mac-help/mchlp1236/mac)
    3. Type the following command into the Terminal: `java -jar [CS2103T-T11-1][nustracker].jar`. 
 
@@ -104,7 +104,7 @@ via the terminal as well (but double-clicking should work fine).
 <div markdown="span" class="alert alert-primary">
 
 :bulb: **Tip**:
-_(Optional)_ If you would like to have some sample profile pictures to go along with the sample data shown above, download `profile-pictures.zip` from the link in step 2 and unzip it in the data folder that is created.
+_(Optional)_ If you would like to have some sample profile pictures to go along with the sample data shown above, download `profile-pictures.zip` from the link in step 2 and unzip it in `myfolder`.
 
 </div>
 
