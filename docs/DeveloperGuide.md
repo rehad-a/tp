@@ -10,14 +10,14 @@ title: Developer Guide
 
 ## **Introduction**
 
-nustracker is a standalone desktop app that aims to help event directors and administrative personnel of
+**nustracker** is a standalone desktop app that aims to help event directors and administrative personnel of
 NUS student organisations to manage the organisation of undergraduate student events more easily.
 
 As this app is geared towards the tech-literate generation, it is designed to use
 a Command-Line Interface (CLI) to speed up usage for fast typists, while still making use of a
 clean Graphical User Interface (GUI).
 
-NUSTracker allows event directors to manage student events attendance information of the large undergraduate
+**nustracker** allows event directors to manage student events attendance information of the large undergraduate
 student base.
 
 
@@ -490,7 +490,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 ### Use cases
 
-For all use cases below, the _System_ is **NUSTracker** and the _Actor_ is the **user**, unless specified otherwise.
+For all use cases below, the _System_ is **nustracker** and the _Actor_ is the **user**, unless specified otherwise.
 
 **<u>Use case UC1 - Add a student</u>**
 

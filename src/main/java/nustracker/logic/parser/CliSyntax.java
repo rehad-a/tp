@@ -22,7 +22,7 @@ public class CliSyntax {
     public static final Prefix PREFIX_FILENAME = new Prefix("fn/");
 
     /**
-     * Gets a list of all the valid prefixes for NUSTracker.
+     * Gets a list of all the valid prefixes for nustracker.
      *
      * @return the list of prefixes in an ArrayList.
      */
