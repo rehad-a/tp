@@ -67,6 +67,7 @@ These boxes warn you about important things! It is imperative that you read thes
 
 --------------------------------------------------------------------------------------------------------------------
 <div style="page-break-after: always;"></div>
+
 ## Getting Started
 
 <div markdown="span" class="alert alert-danger">:exclamation: **Caution:** <br><br>
