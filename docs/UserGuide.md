@@ -85,9 +85,9 @@ via the terminal as well (but double-clicking should work fine).
 
 1. Ensure you have `Java 11` or above installed in your Computer. 
 
-2. Download the latest `nustracker.zip`, found under [Releases](https://github.com/AY2122S1-CS2103T-T11-1/tp/releases). 
+2. Download the latest `[CS2103T-T11-1][nustracker].jar`, found under [Releases](https://github.com/AY2122S1-CS2103T-T11-1/tp/releases). 
 
-3. Extract the zip file to a folder of your choice. We recommended something easy to type, like `myfolder`.
+3. Move the jar file to a folder of your choice. We recommended something easy to type, like `myfolder`.
 
 4. For Windows Users (**macOS users see Step 5**)
     1. Double-click the jar file.<br><br>
@@ -100,6 +100,14 @@ via the terminal as well (but double-clicking should work fine).
 
 6. You should see the following (minus the profile pictures): <br>
    ![Ui](images/Ui.png)
+
+
+<div markdown="span" class="alert alert-primary">
+
+:bulb: **Tip**:
+_(Optional)_ If you would like to have some sample profile pictures to go along with the sample data shown above, download `profile-pictures.zip` from the link in step 2 and unzip it in the data folder that is created.
+
+</div>
 
 
 **nustracker** is now up and running on your system! To get started, we suggest this flow:
