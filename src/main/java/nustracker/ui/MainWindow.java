@@ -50,7 +50,7 @@ public class MainWindow extends UiPart<Stage> {
     @FXML
     private StackPane listPanelPlaceholder;
     @FXML
-    private HBox topContainer; //This space is for the NUSTracker logo, and the help and exit button
+    private HBox topContainer; //This space is for the nustracker logo, and the help and exit button
     @FXML
     private MenuItem helpMenuItem;
     @FXML

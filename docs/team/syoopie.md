@@ -3,7 +3,7 @@ layout: page
 title: Yu Pei's Project Portfolio Page
 ---
 
-### Project: NUSTracker
+### Project: nustracker
 
 <br>
 
