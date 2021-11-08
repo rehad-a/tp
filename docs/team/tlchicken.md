@@ -11,7 +11,7 @@ It is built on top of **[AddressBook - Level 3](https://se-education.org/address
 
 Given below are my contributions to the project.
 
-* **New Feature**: Added the ability to enrolle students into events.
+* **New Feature**: Added the ability to enroll students into events.
   * What it does: `enroll` - Allows the user to enroll students into the events that the students want to participate in.
   * Justification: This feature forms part of the base product as it allows students to be used together with events.
   * Highlights: This implementation was challenging as it required interlinking 2 different sets of classes which contain a wide array of subclasses - Student and Event, making them all work together.
