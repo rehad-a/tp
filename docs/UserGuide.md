@@ -13,7 +13,7 @@ title: User Guide
 No more sleepless nights deriving Excel formulas. nustracker does everything for you, preserving your energy—for a happier school life.
 </div><br>
 <p align="center">
-  <img src="images/Ui.png" />
+  <img src="images/image1.jpg" />
 </p> 
 
 <div style="page-break-after: always;"></div>
@@ -24,7 +24,7 @@ No more sleepless nights deriving Excel formulas. nustracker does everything for
 nustracker specializes in displaying event information, each complete with student attendance and even a blacklist feature. Clean, silky management is here.
 </div><br>
 <p align="center">
-  <img src="images/user-guide/after-creating-event.png" />
+  <img src="images/image2.jpg" />
 </p> 
 
 <div style="page-break-after: always;"></div>
@@ -35,9 +35,8 @@ nustracker specializes in displaying event information, each complete with stude
     We know you're tired of staring at grid boxes (because we are too). With nustracker, you can switch between a light and dark mode, and customize the profile picture glow. Customization has never been simpler.
 </div><br>
 <p align="center">
-  <img src="images/Ui-dark.png" />
+  <img src="images/image3.jpg" />
 </p> 
-
 <div style="page-break-after: always;"></div>
 **nustracker** is a desktop application for NUS event directors and student leaders of student organizations in NUS School of Computing to manage students and events.
 

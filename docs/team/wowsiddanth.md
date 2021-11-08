@@ -71,12 +71,13 @@ a brownfield project that extends the AddressBook3 project, which is around 10kL
 
 * **Documentation**:
   * User Guide:
-    * Added documentation for the features `add` and `delete`. ([#27](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/27))
-    * Added documentation for the features `refresh` and `theme`. ([#144](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/144))
     * Added _'Adding your first student', 'Adding your first event', and 'Adding your first student to your first event'_ sections to the UG. ([#223](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/223))
     * Added _'Customization'_ section to the UG. ([#132](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/132/files))
     * Added _'General Layout'_ section to the UG. ([#132](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/132/files))
     * Edited _'Features'_ section of the UG. ([#123](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/123), [#223](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/223))
+    * Added feature introductions at the start of the UG: 
+    * Added documentation for the features `add` and `delete`. ([#27](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/27))
+    * Added documentation for the features `refresh` and `theme`. ([#144](https://github.com/AY2122S1-CS2103T-T11-1/tp/pull/144))
     * Rephrased many paragraphs, formatted whitespaces, etc. 
     
   * Developer Guide:
